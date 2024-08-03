@@ -1,0 +1,7 @@
+# Environment variables
+.env
+
+#IDE Configs
+.idea/
+
+venv/
